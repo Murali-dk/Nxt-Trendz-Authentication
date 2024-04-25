@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.home-bg {
+  background-color: #ffffff;
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 20px 10px 20px 10px;
+}
+.btn {
+  height: 35px;
+  width: 130px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 7px;
+  color: #ffffff;
+  background-color: blue;
+}
+.img {
+  width: 300px;
+}
+.home-card {
+  display: flex;
+  justify-content: space-between;
+}
